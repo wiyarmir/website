@@ -7,7 +7,7 @@ export default () => (
     <a href="mailto:conference@callstack.io" title="Contact us">conference@callstack.io</a>
     <br />
     <br />
-    <a className="grey" href="callstack.io" title="Callstack.io - expert React Native development">
+    <a className="grey" href="https://callstack.io/" title="Callstack.io - expert React Native development">
       made with &lt;3 by Callstack
     </a>
     <style jsx>{`
